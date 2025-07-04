@@ -8,11 +8,11 @@ chandru_ganesh
 
 $ cat /proc/about
 ┌─────────────────────────────────────────────────────────────┐
-│  🤖 AI Trainer & Tuning Specialist                         │
-│  🎨 Frontend Engineer                                       │
-│  🔧 System Automation Enthusiast                           │
-│  📍 Location: India 🇮🇳                                     │
-│  🎯 Mission: AI + Frontend + Automation = Magic            │
+│  🤖 AI Trainer & Tuning                                    │
+│  🎨 Frontend Engineer                                      │
+│  🔧 AI Enthusiast                                          │
+│  📍 Location: India                                        │
+│  🎯 Mission: AI + Frontend  = Magic                        │
 └─────────────────────────────────────────────────────────────┘
 
 $ loading_skills.sh
@@ -131,15 +131,14 @@ I didn't come from a privileged coding background—I built everything from scra
 
 ```bash
 $ contact --method all
-📧 Email: [your-email@example.com]
-💼 LinkedIn: [your-linkedin]
-🐦 Twitter: [your-twitter]
+📧 Email: [chandruganesh00@gmail.com]
+💼 LinkedIn: [https://linkedin.com/in/chandru-ganesh]
 🌐 Portfolio: [your-portfolio-url]
 ```
 
 ---
 
-⚡ **"Building the future, one AI-powered frontend at a time"** ⚡
+⚡ **"Building the future by AI, and structure by frontend at a time"** ⚡
 
 ---
 
