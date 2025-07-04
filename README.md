@@ -115,7 +115,6 @@ research_focus = {
 
 - 🎯 Build products that seamlessly blend **AI intelligence** with **intuitive UX**
 - 🚀 Join a team where **AI meets frontend** or launch my own tech startup
-- 🔒 Master **cybersecurity** and **system-level programming**
 - 🌍 Create tools that solve real problems for real people
 
 ## 🌟 My Story
